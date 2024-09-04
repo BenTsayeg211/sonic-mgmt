@@ -1,5 +1,6 @@
 import json
 import math
+import numpy
 
 
 def generate_intf_neigh(asichost, num_neigh, ip_version, mg_facts=None, is_backend_topology=False):
